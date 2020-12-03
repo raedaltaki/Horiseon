@@ -20,7 +20,7 @@ Horison is an optimized search Engine.
 
 The home page is as follow.
 
-![Test Image 1](./assets/images/homepage.jpg)
+![Test Image 1](./assets/images/homepage.JPG)
 
 Press on the navigation section (on the top left) to navigate you to the required section at the home page.
 
